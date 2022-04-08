@@ -1,4 +1,5 @@
 def remaining_string(str,n):
+    #str[n:] starts string excluding first n characters
     print(str[n:])
 #PYnative exercise 4
 #Remove first n characters from a string
